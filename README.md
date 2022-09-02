@@ -1,7 +1,7 @@
 👋 Hello, I’m Quoc Bao Dinh Le
 
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning CSS, Java, JavaScript, React, and Json.
+- 🌱 I’m currently learning CSS and Java.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me: 
 - LinkedIn - @ Quoc Le
